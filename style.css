@@ -1,0 +1,121 @@
+body {
+    background-color: antiquewhite;
+    color: #2d2d2d;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: "Roboto Thin";
+     }
+h1   {
+    color: cadetblue;
+}
+
+a {
+    color: #2d2d2d;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited {
+    color: gray;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+    <!--- box-shadow: 4px 4px 124px darkcyan; -->
+}
+.info p {
+    color: #2d2d2d;
+    margin: 0;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    /*text-transform: capitalize;*/
+    /*letter-spacing: 1px;*/
+    /*word-spacing: 42;*/
+}
+
+/*boxmodel*/
+.container{
+    max-width: 750px;
+    margin: auto;
+
+}
+
+.bg-one{
+    background: blanchedalmond;
+}
+
+.bg-two{
+    background: bisque;
+}
+
+.bg-three{
+    background: burlywood;
+}
+
+.bg-red{
+    background: crimson;
+}
+
+.info p{
+   margin-bottom: 20px;
+}
+
+
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+
+.contact h2{
+    text-align: center;
+
+}
+
+.form label{
+    display: block;
+    font-size: 14px;
+    color: #2d2d2d;
+
+}
+
+.form input,
+.form textarea{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+
+    border-bottom: 1px solid #ccc;
+    color: #2d2d2d;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: ".SF NS";
+}
+
+.btn {
+    background: 2d2d2d;
+    padding: 15px 20px;
+    color: ghostwhite;
+    border: ghostwhite;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+.box {
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    background:lightcoral;
+} */
+
